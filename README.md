@@ -1,7 +1,7 @@
 # bee-health-calculation-model-bgood-wp2
 Bee health calculation model B-GOOD WP2
 
-# Auhor
+# Author
 Luke Chamberlain
 luke.chamberlain@ntu.ac.uk
 
